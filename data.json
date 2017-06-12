@@ -6,6 +6,35 @@
 					"title": "TBD",
 					"type": "Talk"
 				}
+			]
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Panel"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"country": "cl"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
 			],
 			"name": "Paris Web",
 			"date": "2017-10-05",
